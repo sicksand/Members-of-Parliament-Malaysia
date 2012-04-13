@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MemberofParliamentMalaysiaActivity!</string>
+    <string name="app_name">Members of Parliament Malaysia</string>
+    <string name="app_label">Members of Parliament Malaysia</string>
+    <string name="search_hint">Name</string>
+    <string name="no_notes">No Notes</string>
+</resources>
